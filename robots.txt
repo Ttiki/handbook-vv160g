@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ttiki.github.io/handbook-vv160g/sitemap.xml
